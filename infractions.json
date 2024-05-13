@@ -1,0 +1,298 @@
+{
+    "DAY1": {
+      "1": {
+        "age": "25 - 44",
+        "sex": "M",
+        "race": "Black",
+        "precinct": "33"
+      },
+      "2": {
+        "age": "25 - 44",
+        "sex": "M",
+        "race": "White <br> Hispanic",
+        "precinct": "25"
+      },
+      "3": {
+        "age": "25 - 44",
+        "sex": "M",
+        "race": "Black",
+        "precinct": "26"
+      },
+      "4": {
+        "age": "25 - 44",
+        "sex": "M",
+        "race": "Black <br> Hispanic",
+        "precinct": "25"
+      }
+    },
+    "DAY2": {},
+    "DAY3": {
+      "1": {
+        "age": "45 - 64",
+        "sex": "M",
+        "race": "White <br> Hispanic",
+        "precinct": "23"
+      },
+      "2": {
+        "age": "25 - 44",
+        "sex": "F",
+        "race": "White <br> Hispanic",
+        "precinct": "30"
+      },
+      "3": {
+        "age": "25 - 44",
+        "sex": "M",
+        "race": "Black",
+        "precinct": "33"
+      }
+    },
+    "DAY4": {
+      "1": {
+        "age": "25 - 44",
+        "sex": "M",
+        "race": "White <br> Hispanic",
+        "precinct": "34"
+      },
+      "2": {
+        "age": "25 - 44",
+        "sex": "M",
+        "race": "White <br> Hispanic",
+        "precinct": "18"
+      },
+      "3": {
+        "age": "25 - 44",
+        "sex": "M",
+        "race": "White <br> Hispanic",
+        "precinct": "18"
+      },
+      "4": {
+        "age": "45 - 64",
+        "sex": "M",
+        "race": "Black",
+        "precinct": "19"
+      },
+      "5": {
+        "age": "25 - 44",
+        "sex": "M",
+        "race": "Asian <br> Pacific",
+        "precinct": "34"
+      },
+      "6": {
+        "age": "25 - 44",
+        "sex": "M",
+        "race": "Black",
+        "precinct": "23"
+      },
+      "7": {
+        "age": "25 - 44",
+        "sex": "M",
+        "race": "White <br> Hispanic",
+        "precinct": "34"
+      }
+    },
+    "DAY5": {
+      "1": {
+        "age": "45 - 64",
+        "sex": "M",
+        "race": "Black",
+        "precinct": "25"
+      },
+      "2": {
+        "age": "25 - 44",
+        "sex": "M",
+        "race": "Black <br> Hispanic",
+        "precinct": "17"
+      },
+      "3": {
+        "age": "25 - 44",
+        "sex": "M",
+        "race": "White <br>Hispanic",
+        "precinct": "23"
+      },
+      "4": {
+        "age": "25 - 44",
+        "sex": "F",
+        "race": "Black",
+        "precinct": "24"
+      },
+      "5": {
+        "age": "25 - 44",
+        "sex": "M",
+        "race": "White <br> Hispanic",
+        "precinct": "18"
+      },
+      "6": {
+        "age": "25 - 44",
+        "sex": "M",
+        "race": "Black <br> Hispanic",
+        "precinct": "34"
+      },
+      "7": {
+        "age": "25 - 44",
+        "sex": "M",
+        "race": "White",
+        "precinct": "10"
+      }
+    },
+    "DAY6": {
+      "1": {
+        "age": "25 - 44",
+        "sex": "M",
+        "race": "White <br> Hispanic",
+        "precinct": "33"
+      },
+      "2": {
+        "age": "18 - 24",
+        "sex": "M",
+        "race": "Asian <br> Pacific",
+        "precinct": "17"
+      },
+      "3": {
+        "age": "25 - 44",
+        "sex": "M",
+        "race": "White <br> Hispanic",
+        "precinct": "34"
+      },
+      "4": {
+        "age": "25 - 44",
+        "sex": "M",
+        "race": "Black",
+        "precinct": "19"
+      },
+      "5": {
+        "age": "18 - 24",
+        "sex": "M",
+        "race": "Black",
+        "precinct": "17"
+      },
+      "6": {
+        "age": "25 - 44",
+        "sex": "M",
+        "race": "White <br>Hispanic",
+        "precinct": "18"
+      }
+    },
+    "DAY7": {
+      "1": {
+        "age": "18 - 24",
+        "sex": "M",
+        "race": "White <br> Hispanic",
+        "precinct": "34"
+      },
+      "2": {
+        "age": "25 - 44",
+        "sex": "M",
+        "race": "White <br> Hispanic",
+        "precinct": "10"
+      },
+      "3": {
+        "age": "45 - 64",
+        "sex": "M",
+        "race": "Asian <br> Pacific",
+        "precinct": "5"
+      },
+      "4": {
+        "age": "25 - 44",
+        "sex": "M",
+        "race": "Black",
+        "precinct": "25"
+      }
+    },
+    "DAY8": {
+      "1": {
+        "age": "25 - 44",
+        "sex": "M",
+        "race": "Black",
+        "precinct": "32"
+      },
+      "2": {
+        "age": "25 - 44",
+        "sex": "M",
+        "race": "Black <br>Hispanic",
+        "precinct": "34"
+      },
+      "3": {
+        "age": "25 - 44",
+        "sex": "M",
+        "race": "White <br> Hispanic",
+        "precinct": "7"
+      },
+      "4": {
+        "age": "25 - 44",
+        "sex": "M",
+        "race": "Black",
+        "precinct": "32"
+      },
+      "5": {
+        "age": "25 - 44",
+        "sex": "M",
+        "race": "White <br> Hispanic",
+        "precinct": "26"
+      }
+    },
+    "DAY9": {
+      "1": {
+        "age": "25 - 44",
+        "sex": "M",
+        "race": "White",
+        "precinct": "24"
+      },
+      "2": {
+        "age": "45 - 64",
+        "sex": "M",
+        "race": "Black",
+        "precinct": "26"
+      }
+    },
+    "DAY10": {
+      "1": {
+        "age": "25 - 44",
+        "sex": "M",
+        "race": "White <br> Hispanic",
+        "precinct": "14"
+      },
+      "2": {
+        "age": "25 - 44",
+        "sex": "M",
+        "race": "Black",
+        "precinct": "25"
+      },
+      "3": {
+        "age": "25 - 44",
+        "sex": "M",
+        "race": "Black",
+        "precinct": "24"
+      },
+      "4": {
+        "age": "18 - 24",
+        "sex": "M",
+        "race": "Black",
+        "precinct": "25"
+      },
+      "5": {
+        "age": "25 - 44",
+        "sex": "M",
+        "race": "White",
+        "precinct": "25"
+      },
+      "6": {
+        "age": "25 - 44",
+        "sex": "M",
+        "race": "Asian <br> Pacific",
+        "precinct": "32"
+      },
+      "7": {
+        "age": "18 - 24",
+        "sex": "M",
+        "race": "White <br> Hispanic",
+        "precinct": "14"
+      },
+      "8": {
+        "age": "25 - 44",
+        "sex": "M",
+        "race": "Black",
+        "precinct": "24"
+      }
+    }
+  }
+  
